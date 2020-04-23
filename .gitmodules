@@ -1,0 +1,6 @@
+[submodule "extern/Silo"]
+	path = extern/Silo
+	url = https://github.com/MichaelAxtmann/Silo.git
+[submodule "extern/Topo"]
+	path = extern/Topo
+	url = https://github.com/MichaelAxtmann/Topo.git
