@@ -48,5 +48,5 @@ file(GLOB NUMA_ARRAY_SRCS RELATIVE ${CMAKE_CURRENT_SOURCE_DIR}
 
 add_library(numa_array STATIC ${NUMA_ARRAY_SRCS})
 set_target_properties(numa_array PROPERTIES LINKER_LANGUAGE CXX)
-target_include_directories(numa_array PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/numa_array)
+target_include_directories(numa_array PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
 target_link_libraries(numa_array PUBLIC topo silo)
