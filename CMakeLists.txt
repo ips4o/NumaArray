@@ -1,7 +1,7 @@
 ###############################################################################
 # CMakeLists.txt
 #
-# Copyright (C) 2020 Michael Axtmann <michael.axtmann@kit.edu>
+# Copyright (C) 2020 Michael Axtmann <michael.axtmann@gmail.com>
 #
 # All rights reserved. Published under the BSD-2 license.
 ##############################################################################
