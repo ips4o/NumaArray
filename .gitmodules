@@ -1,6 +1,3 @@
-[submodule "include"]
-	path = include
-	url = https://gist.github.com/db60074e2cf2b4fff1a11b8d2bb82b0a.git
 [submodule "extern/Silo"]
 	path = extern/Silo
 	url = https://github.com/ips4o/Silo.git
